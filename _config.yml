@@ -2,3 +2,4 @@ title: Quantum Computing Timeline
 description: A timeline of key events in quantum computing history
 baseurl: ""
 url: ""
+theme: jekyll-theme-minimal
