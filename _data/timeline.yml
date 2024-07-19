@@ -1,23 +1,55 @@
+# File: _data/timeline.yml
+
+- year: 1935
+  event: Einstein, Podolsky, and Rosen publish the EPR paradox paper, laying groundwork for quantum entanglement.
+
+- year: 1964
+  event: John Bell proposes Bell's theorem, providing a way to test quantum entanglement experimentally.
+
 - year: 1980
   event: Paul Benioff describes the first quantum mechanical model of a computer.
+
+- year: 1981
+  event: Richard Feynman proposes the idea of quantum computers for simulating quantum systems.
 
 - year: 1985
   event: David Deutsch describes the first universal quantum computer.
 
 - year: 1994
-  event: Peter Shor develops a quantum algorithm for factoring integers.
+  event: Peter Shor develops a quantum algorithm for factoring integers, threatening classical cryptography.
+
+- year: 1995
+  event: The first quantum logic gate is demonstrated in a single atom by NIST.
 
 - year: 1996
   event: Lov Grover invents the quantum database search algorithm.
 
+- year: 1998
+  event: The first working 2-qubit quantum computer is demonstrated at UC Berkeley.
+
 - year: 2000
   event: First working 5-qubit NMR computer demonstrated at Technical University of Munich.
 
+- year: 2007
+  event: D-Wave Systems demonstrates the first commercially available quantum annealer.
+
 - year: 2011
-  event: D-Wave Systems announces the first commercially available quantum annealer.
+  event: D-Wave One, a 128-qubit quantum annealer, is made available for commercial use.
+
+- year: 2016
+  event: IBM makes a 5-qubit quantum computer available to the public via cloud.
+
+- year: 2017
+  event: Google announces its 72-qubit Bristlecone quantum processor.
 
 - year: 2019
   event: Google claims to have achieved quantum supremacy with its 53-qubit Sycamore processor.
 
+- year: 2020
+  event: Honeywell claims to have built the world's most powerful quantum computer.
+
 - year: 2021
-  event: Something goes here.
+  event: Chinese scientists claim quantum computational advantage with 76 photon detection.
+
+- year: 2022
+  event: IBM unveils its 433-qubit Osprey quantum processor, aiming for 4,000+ qubits by 2025.
