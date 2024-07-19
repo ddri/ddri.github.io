@@ -1,2 +1,0 @@
-# ddri.github.io
-test

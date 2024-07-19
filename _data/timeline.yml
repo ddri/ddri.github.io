@@ -1,0 +1,20 @@
+- year: 1980
+  event: Paul Benioff describes the first quantum mechanical model of a computer.
+
+- year: 1985
+  event: David Deutsch describes the first universal quantum computer.
+
+- year: 1994
+  event: Peter Shor develops a quantum algorithm for factoring integers.
+
+- year: 1996
+  event: Lov Grover invents the quantum database search algorithm.
+
+- year: 2000
+  event: First working 5-qubit NMR computer demonstrated at Technical University of Munich.
+
+- year: 2011
+  event: D-Wave Systems announces the first commercially available quantum annealer.
+
+- year: 2019
+  event: Google claims to have achieved quantum supremacy with its 53-qubit Sycamore processor.
